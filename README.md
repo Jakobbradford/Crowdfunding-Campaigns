@@ -26,6 +26,8 @@ Scikit-learn documentation provides this useful diagram to determine what model 
 
 Therefore chose the Lasso model
 
+
+
 **Model Outcomes**
 
 Best lasso permutation = [1,1000,1,0,0,1]
