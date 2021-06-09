@@ -20,6 +20,10 @@ Problem involves:
 - 50<X<100,000 samples
 - Few important features
 
+Scikit-learn documentation provides this useful diagram to determine what model fits a business problem.
+
+![image](https://user-images.githubusercontent.com/83718882/121430412-114bb500-c946-11eb-931f-7a69bcb6e437.png)
+
 Therefore chose the Lasso model
 
 **Model Outcomes**
