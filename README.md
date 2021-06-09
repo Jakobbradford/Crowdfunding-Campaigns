@@ -34,4 +34,14 @@ Small Business Campaign = No
 Fixed Fund = No
 IoT Device = Yes
 
+**Conclusions**
+
+Entrepreneurs
+- Place focus on highly technical products, especially those that can be sent to early investors
+- Avoid fixed fund campaigns which have a negative correlation with campaign success
+
+Regulators / Crowdfunding Sites
+- Provide more rigid pre-launch guidelands to businesses using the service
+- Ensure that companies follow-through on their campaign promises
+
       
