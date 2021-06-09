@@ -3,15 +3,14 @@
 Business Question: What drives success (defined as whether campaign reaches their goal for money raised) in crowdfunding campaigns?
 
 **Feature Selection**
-```
-Feature	Description
-Whether the campaign promises a product	Many crowdfunding campaigns promise to provide actual products in return for early investment
-Goal amt.	Dollar amount advertised by crowdfunding campaign teams for the targeted investment amount.
-Technology product	Whether the campaign is for a technology product
-Small business	Whether the campaign is for a small business
-Fixed funding	Founders are only paid the investment dollars if the target goal of the campaign is raised (at least)
-IoT Device	Internet of things devices are those that connect to the web or to a phone - e.g., fitbit.
-```
+| Feature  | Description |
+|----------|----------|
+|----------|----------|
+|
+|
+|
+|
+|
 
 
 
