@@ -46,7 +46,7 @@ Businesses should place focus on highly technical products, especially those tha
 
 Regulators / Crowdfunding Sites
 
-Given our lasso permutation, crowdfunding sites would have to respond accordingly to maximize investor trust. We believe that providing more rigid pre-launch guidelines to campaigns would be effective. This could include reviewing business plans and products more thoroughly on the site to minimize dishonesty to generate larger donation volumes. Ensuring that campaigns follow-through on promises would be another useful step. The implications of this analysis are that campaigns can be tailored to amass larger funding for projects so long as this is done ethically.
+Given our lasso permutation, crowdfunding sites would have to respond accordingly to maximize investor trust. We believe that providing more rigid pre-launch guidelines to campaigns would be effective. This could include reviewing business plans and products more thoroughly on the site, minimizing dishonest advertizing used to generate larger donation volumes. Ensuring that campaigns follow-through on promises would be another useful step. The implications of this analysis are that campaigns can be tailored to amass larger funding for projects so long as this is done ethically.
 
 
       
