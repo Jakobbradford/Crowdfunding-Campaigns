@@ -7,6 +7,10 @@ Business Question: What drives success (defined as whether campaign reaches thei
 |----------|----------|
 |Whether the campaign promises a product|Many crowdfunding campaigns promise to provide products for investment|
 |Goal amount|Dollar amount advertised for target investment amount|
+|Technology product|Whether the campaign is for a tech product|
+|Small business|Whether the campaign is for a small business|
+|Fixed funding|Founders are only paid if the target goal is reached|
+|IoT Device|Is the product an IoT device (e.g. Fitbit)|
 
 
 
