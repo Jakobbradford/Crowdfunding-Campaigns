@@ -5,12 +5,11 @@ Business Question: What drives success (defined as whether campaign reaches thei
 **Feature Selection**
 | Feature  | Description |
 |----------|----------|
-|----------|----------|
-|
-|
-|
-|
-|
+|Whether the campaign promises a product|Many crowdfunding campaigns promise to provide products for investment|
+|Goal amount|Dollar amount advertised for target investment amount|
+
+
+
 
 
 
