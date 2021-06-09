@@ -41,9 +41,11 @@ IoT Device = Yes
 **Conclusions**
 
 Entrepreneurs
+
 Businesses should place focus on highly technical products, especially those that can be sent to early investors. This incentivizes tentative donators by providing an exchange of value, which was demonstrated by the model. Additionally, avoid fixed fund campaigns, where campaigns only receive the funding if the goal is reached. There was a negative correlation between fixed funding and success, likely due to the fear that the donation won't go towards a product if it doesn't receive proper traction.
 
 Regulators / Crowdfunding Sites
+
 Given our lasso permutation, crowdfunding sites would have to respond accordingly to maximize investor trust. We believe that providing more rigid pre-launch guidelines to campaigns would be effective. This could include reviewing business plans and products more thoroughly on the site to minimize dishonesty to generate larger donation volumes. Ensuring that campaigns follow-through on promises would be another useful step. The implications of this analysis are that campaigns can be tailored to amass larger funding for projects so long as this is done ethically.
 
 
